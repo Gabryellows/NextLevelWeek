@@ -2,4 +2,4 @@
   NLW Setup 
 </h2>
 
-<img alt="Banner NextLevelWeek" src="./assets/banner_nlw_setup.png" ali/>
+<img alt="Banner NextLevelWeek" src="./assets/banner_nlw_setup.png"/>
