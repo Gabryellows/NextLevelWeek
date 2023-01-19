@@ -129,7 +129,6 @@ export async function appRoutes(app: FastifyInstance) {
     });
 
     app.get('/summary', async () =>{
-    // const arrayObjects = [{}]
 
     const summary = await prisma.$queryRaw`
         SELECT 
